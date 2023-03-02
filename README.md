@@ -1,2 +1,2 @@
 # TextBot
- tg bot
+a telegram bot that picks up a pickup phrase based on the situation
